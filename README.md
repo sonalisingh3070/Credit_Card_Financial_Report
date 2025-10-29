@@ -10,11 +10,11 @@
  - Connected SQL database to Power BI Desktop:imported model,created measures using DAX
  - Designed the dashboard
 ## Project Insights:
- # WoW change:
+  # WoW change:
   - Revenue increased by 28.8%,
   - Total Transaction Amount & Count increased by xx % &xx %
   - Customer count increased by xx %
- # Overview YTD:
+  # Overview YTD:
   - Overall revenue is 57M
   - Total interest is 18M
   - Total transaction amount is 46M
