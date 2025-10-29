@@ -2,12 +2,12 @@
 ## Power BI Dashboard
  Project Objective: To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends,enabling     stakeholders to monitor and analyze credit card operations effectively. 
 ## Steps involved:
- -Extracted data in Excel/CSV.
- -Cleaned and standardised the data
- -Built tables in SQL database
- -Imported CSV files into SQL
- -Connected SQL database to Power BI Desktop:imported model,created measures using DAX
- -Designed the dashboard
+ - Extracted data in Excel/CSV.
+ - Cleaned and standardised the data
+ - Built tables in SQL database
+ - Imported CSV files into SQL
+ - Connected SQL database to Power BI Desktop:imported model,created measures using DAX
+ - Designed the dashboard
 ## Project Insights:
  # WoW change:
   -Revenue increased by 28.8%,
